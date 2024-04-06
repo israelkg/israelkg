@@ -1,6 +1,6 @@
-### Olá! Eu sou o Israel 👋
+### Olá! Eu sou o Israel Gonçalves👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israelkg&show_icons=true&theme=dracula)
 
 ## Tecnologias 
 
