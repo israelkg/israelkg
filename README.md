@@ -5,9 +5,18 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelkg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelkg&layout=compact&langs_count=6&theme=tokyonight"/>
 </div><br>
+
+<h1 align="center"> Sobre Mim </h1>
+<ul align="left">
+   <li>🤠 Apaixonada por Programação, gamer 🤓, amador de café ☕, amante da sabedoria 📖.</li>
+   <li>📓 Estudante de <strong>Análise e Desenvolvimento de Sistemas: Full-Stack</strong> na <a href="https://www.materdei.edu.br/pt" target="_blank" >UNIMATER</a>. </li>
+   <li>💻 Estudei no <a href="https://github.com/devemdobro" target="_blank">DevQuest.</a></li>
+   <li>🚀Aprofundei meus conhecimentos sobre tecnologias front-end e back-end em uma oportunidade de estágio como desenvolvedor fullstack.</li>
+   <li> Possuo <strong> inglês </strong> técnico .</li>
+  <li>🎮 Curto jogar Valorant.</li>
+  </ul>
     
 ## Tecnologias
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -31,6 +40,7 @@
   <a href = "mailto:israeldev.net@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/israel-gon%C3%A7alves-medeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
 
 
