@@ -11,10 +11,9 @@
    <li>🤠 Apaixonada por Programação, gamer 🤓, amador de café ☕, amante da sabedoria 📖.</li>
    <li>📓 Estudante de <strong>Análise e Desenvolvimento de Sistemas: Full-Stack</strong> na <a href="https://www.materdei.edu.br/pt" target="_blank" >UNIMATER</a>. </li>
    <li>💻 Estudei no <a href="https://github.com/devemdobro" target="_blank">DevQuest.</a></li>
-   <li>🚀Aprofundei meus conhecimentos sobre tecnologias front-end e back-end em uma oportunidade de estágio como desenvolvedor fullstack.</li>
-   <li> Possuo <strong> inglês </strong> técnico .</li>
-  <li>🎮 Curto jogar Valorant.</li>
-  </ul>
+   <li>🚀 Aprofundei meus conhecimentos sobre tecnologias front-end e back-end em uma oportunidade de estágio como desenvolvedor fullstack.</li>
+   <li>🎮 Curto jogar Valorant.</li>
+</ul>
     
 ## Tecnologias
 
