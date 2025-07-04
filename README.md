@@ -8,8 +8,8 @@
 
 <h1 align="center"> Sobre Mim </h1>
 <ul align="left">
-   <li>🤠 Apaixonada por Programação, gamer 🤓, amador de café ☕, amante da sabedoria 📖.</li>
-   <li>📓 Estudante de <strong>Análise e Desenvolvimento de Sistemas:</strong> na <a href="https://www.materdei.edu.br/pt" target="_blank" >UNIMATER</a>. </li>
+   <li>🤠 Apaixonado por Programação, Jogos e Jesus 📖.</li>
+   <li>📓 Estudante de <strong>Análise e Desenvolvimento de Sistemas:</strong></li>
    <li>🚀 Atualmente aprofundando meus conhecimentos como desenvolvedor full-stack</li>
 </ul>
     
