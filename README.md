@@ -9,8 +9,8 @@
 <h1 align="center"> Sobre Mim </h1>
 <ul align="left">
    <li>🤠 Apaixonado por Programação, Jogos e Jesus 📖.</li>
-   <li>📓 Estudante de <strong>Análise e Desenvolvimento de Sistemas:</strong></li>
-   <li>🚀 Atualmente aprofundando meus conhecimentos como desenvolvedor full-stack</li>
+   <li>📓 Estudante de <strong>Análise e Desenvolvimento de Sistemas.</strong></li>
+   <li>🚀 Atualmente aprofundando meus conhecimentos como desenvolvedor full-stack.</li>
 </ul>
     
 ## Tecnologias
