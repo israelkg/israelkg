@@ -102,13 +102,17 @@ Sou um desenvolvedor em formação com paixão por criar soluções web completa
 
 ### 📬 Contato
 <div align="center">
+  
   [![Gmail](https://img.shields.io/badge/-israeldev.net@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:israeldev.net@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-israel--dev--fullstack-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/israel-dev-fullstack/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Israel%20Gon%C3%A7alves%20Medeiros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-dev-fullstack/)
+
 </div>
 
 ##
 
 <div align="center">
-  ![Snake animation](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/israelkg/israelkg/blob/output/github-contribution-grid-snake.svg)
+  
   ### ✝️ *"Tudo posso naquele que me fortalece"* - Filipenses 4:13
 </div>
