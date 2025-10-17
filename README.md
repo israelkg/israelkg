@@ -107,12 +107,3 @@ Sou um desenvolvedor em formação com paixão por criar soluções web completa
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Israel%20Gon%C3%A7alves%20Medeiros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-dev-fullstack/)
 
 </div>
-
-##
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/israelkg/israelkg/blob/output/github-contribution-grid-snake.svg)
-  
-  ### ✝️ *"Tudo posso naquele que me fortalece"* - Filipenses 4:13
-</div>
