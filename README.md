@@ -4,11 +4,9 @@
 
 <div align="center">
   
-  🤠 **Apaixonado por Programação, Jogos e Jesus** 📖
-  
   📓 Estudante de **Análise e Desenvolvimento de Sistemas**
   
-  🚀 Desenvolvedor Full-Stack em constante evolução
+  🚀 Desenvolvedor Full-Stack
   
 </div>
 
